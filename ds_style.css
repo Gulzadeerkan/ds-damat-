@@ -1,0 +1,879 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.site_govde{
+	width:1280px;
+	height:100%;
+}
+
+.hizalama_bitir{clear:both;}
+
+.yeni_uye{
+    height: 62px;
+    width: 1518px;
+}
+.banner_ust_serit{
+    width: 1438px;
+    height: 110px;
+    margin-left: 43px;
+    margin-top: 11px;
+}
+.ds_logo{
+    width: 241px;
+    height: 137px;
+    float: left;
+    margin-left: -74px;
+    margin-top: -13px;
+}
+.arama_kutusu{
+width: 387px;
+    height: 46px;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 30px;
+    margin-left: 287px;
+    margin-top: 31px;
+    background-color: transparent;
+    border: 1px solid grey;
+    float: left;
+}
+
+.twen_kutu{
+    width: 205px;
+    height: 89px;
+    float: right;
+    margin-top: -104px;
+}
+.twen_logo{
+    width: 146px;
+    height: 21px;
+    float: left;
+    margin-top: 4px;
+    margin-left: 40px;
+}
+.exit{
+    float: left;
+    width: 13px;
+    height: 23px;
+    margin-top: -24px;
+    margin-left: 191px;
+}
+.user_panel{
+    width: 200px;
+    height: 43px;
+    float: right;
+    margin-top: -58px;
+    margin-right: 2px;
+}
+.truck{
+    float: right;
+    width: 35px;
+    height: 25px;
+    margin-right: 151px;
+}
+.users{
+    float: right;
+    width: 27px;
+    height: 27px;
+    margin-top: -23px;
+    margin-right: 69px;
+}
+.sepet{
+    float: right;
+    width: 29px;
+    height: 28px;
+    margin-top: -24px;
+    margin-right: -95px;
+}
+.user_panel_yazi{
+	color:#000;
+	font-size:12px;
+	font-family:sans-serif;
+}
+.truck_yazi{
+	float:left;
+	margin-left:-3px;
+}
+.users_yazi{
+	float:left;
+	margin-left:23px;
+}
+.sepet_yazi{
+	float:left;
+	margin-left:26px;	
+}
+.menu_yazilar{
+    width: 1438px;
+    height: 37px;
+    margin-top: 4px;
+    float: left;
+    margin-left: 40px;
+	font-family:Arial;
+	text-align:right;
+	font-size:17px;
+	color:#000;
+}
+.navigation_box_top {
+    border-width: 1px;
+    border-style: solid;
+    color: #E8E8E8;
+    width: 100%;
+    float: left;
+	margin-top: -2px;
+}
+
+.site_menu_yazilar{
+	text-align:right;
+	font-size:18px;
+	color:#000;
+}
+
+
+.koleksiyon{
+float: left;
+    margin-left: 455px;
+    margin-top: 11px;
+}
+.ayakkabi{
+	float:left;
+    margin-left: 22px;
+    margin-top: 10px;
+}
+
+.aksesuar{
+	float:left;
+    margin-left: 25px;
+    margin-top: 11px;
+}
+
+.indirim{
+    float: left;
+    margin-left: 808px;
+    margin-top: -21px;
+}
+
+.yilbasi{
+    float: left;
+    margin-left: 896px;
+    margin-top: -21px;
+    color: #c50f25;
+}
+.navigation_box_bottom{
+    border-width: 1px;
+    border-style: solid;
+    color: #E8E8E8;
+    width: 100%;
+    float: left;
+    margin-top: 7px;
+}
+.buyuk_resim{
+    width: 1437px;
+    height: 718px;
+    margin-top: 30px;
+    margin-left: 41px;
+}
+.home_stories{
+	width: 1414px;
+    height: 92px;
+    margin-top: 4px;
+    float: left;
+    margin-left: 54px;
+}
+.home{
+    border: 2px solid;
+    border-radius: 50%;
+    color: #9b9b9b;	
+	width: 66px;
+    height: 66px;
+}
+.deger_sana{
+    margin-top: 4px;
+    margin-left: 40px;
+	float:left;
+}
+.spor_giyim{
+    margin-top: 5px;
+    margin-left: 87px;
+    float: left;
+}
+.storie{
+    margin-top: 5px;
+    margin-left: 88px;
+    float: left;
+}
+.home_stories_yazi{
+    color: #000;
+    font-size: 11px;
+    float: left;
+    font-family: Arial;
+
+}
+.deger_sana_yazi{
+    margin-left: 81px;
+    margin-top: -12px;
+	float:left;
+}
+.spor_giyim_yazi{
+    margin-left: 248px;
+    margin-top: -11px;
+	float:left;
+}
+.online_ozel{
+    margin-top: -12px;
+    margin-left: 82px;
+    float: left;
+}
+.alana_hediye_yazi{
+    margin-top: -12px;
+    margin-left: 230px;
+    float: left;
+}
+.takim_elbise_yazi{
+    margin-top: -12px;
+    margin-left: 384px;
+    float: left;
+}
+.mont_yazi{
+    margin-top: -12px;
+    margin-left: 564px;
+    float: left;
+}
+.ceket_yazi{
+	margin-top:-12px;
+	margin-left:720px;
+	float:left;
+}
+.gomlek_yazi{
+	margin-top:-12px;
+	margin-left:870px;
+	float:left;	
+}
+.triko_yazi{
+    margin-top: -12px;
+    margin-right: -142px;
+    float: right;		
+}
+.resimler{
+    width: 1437px;
+    height: 462px;
+    margin-top: 26px;
+    float: left;
+    margin-left: 41px;
+}
+.uc_resim{
+	width:463px;
+	height:463px;
+}
+.triko{
+	float:left;
+	margin-left:0px;
+	margin-top:0px;
+}
+.gomlek{
+	float:left;
+	margin-left:25px;
+}
+.mont{
+	float:left;
+	margin-left:23px;
+}
+/* Çok bakılanlar çizgi başlangıç */
+.navigation_box_orta_sol{
+    border-width: 1px;
+    width: 43%;
+    float: left;
+	margin-left: 40px;
+    margin-top: 25px;
+    border-bottom: 2px solid #808080;
+
+}
+.navigation_yazi{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: #000;
+    font-weight: bold;
+    margin-top: 14px;
+    margin-left: 19px;
+    float: left;
+}
+.navigation_box_orta_sag{
+   border-width: 1px;
+    width: 43%;
+    float: right;
+    margin-right: -40px;
+    margin-top: 25px;
+    border-bottom: 2px solid #808080; 
+}
+/*  Çok bakılanlar çizgi bitiş  */		
+.cok_bakilanlar{
+	width:1390px;
+	height:30px;
+	float:left;
+	margin-left: 24px;
+	margin-top: 18px;
+	
+}
+.cok_bakilan_resim{
+    width: 1440px;
+    height: 545px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 9px;	
+}
+.cok_bakilan_resimler{
+    width: 311px;
+    height: 461px;
+}
+.haki_mont{
+    float: left;
+    margin-left: 43px;
+    margin-top: 17px;
+}
+.italyan_yaka{
+    float: left;
+    margin-left: 39px;
+    margin-top: 17px;
+}
+.t_elbise{
+    float: left;
+    margin-left: 37px;
+    margin-top: 16px;
+}
+.lacivert_t_e{
+    float: left;
+    margin-left: 37px;
+    margin-top: 16px;	
+}
+.cok_bakilan_yazi{
+    font-size: 16px;
+	font-family:sans-serif;
+}
+.haki_mont_yazi{
+	float:left;
+	margin-left: 90px;
+	margin-top: 16px;
+}
+.h_fiyat{
+	margin-left: 160px;
+	margin-top:4px;	
+}
+.italyan_yaka_yazi{
+	margin-left: 404px;
+	margin-top:-41px;	
+	float:left;
+}
+.i_fiyat{
+	margin-left:517px;
+	margin-top:-19px;	
+	float:left;	
+}
+.t_elbise_yazi{
+	margin-left:746px;
+	margin-top:-41px;	
+	float:left;		
+}
+.t_fiyat{
+	margin-left:844px;
+	margin-top:-19px;	
+	float:left;		
+}
+.lacivert_t_e_yazi{
+    margin-right: 22px;
+    margin-top: -41px;
+    float: right;
+}
+.l_fiyat{
+    float: right;
+    margin-right: 169px;
+    margin-top: -19px;
+}
+/*Sonbahar büyük resim başlangıç */
+.sonbahar{
+    width: 1430px;
+    height: 693px;
+    float: left;
+    margin-left: 65px;
+    margin-top: 63px;
+}
+/* Sonbahar büyük resim bitiş */
+.four_box{
+    width: 1430px;
+    height: 945px;
+    float: left;
+    margin-left: 47px;
+    margin-top: 29px;
+}
+.four_img{
+ width: 682px;
+ height: 447px;
+}
+.pantolon_koleksiyon{
+    margin-left: 18px;
+    margin-top: -4px;
+    float: left;
+}
+.ayakkabi_koleksiyon{
+    float: left;
+    margin-left: 25px;
+    margin-top: -5px;
+}
+.aksesuar_koleksiyon{
+    float: left;
+    margin-left: 18px;
+    margin-top: 22px;
+}
+
+.triko_koleksiyon{
+    float: right;
+    margin-right: 22px;
+    margin-top: 22px;
+}
+.ds_mag{
+    width: 1391px;
+    height: 30px;
+    float: left;
+    margin-top: 2px;
+    margin-left: 65px;
+}
+/* D'S Mag başlangıç */
+.navigation_son1_sol{
+    border-width: 1px;
+    width: 46%;
+    float: left;
+    margin-top: 3px;
+    border-bottom: 2px solid #808080;
+}
+.navigation_son1_yazi{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #000;
+    float: left;
+    margin-left: 19px;
+    margin-top: -6px;
+    font-weight: bold;;
+}
+.navigation_son1_sag{
+    border-width: 1px;
+    width: 46%;
+    float: right;
+    margin-top: 3px;
+    border-bottom: 2px solid #808080;
+}
+/* -D'S Mag bitiş */
+.two_box{
+    width: 1390px;
+    height: 683px;
+    float: left;
+    margin-left: 64px;
+    margin-top: 4px;
+}
+.kesfet_pantolon{
+    width: 681px;
+    height: 681px;
+    margin-top: 5px;
+    float: left;
+    margin-left: 1px;
+}
+
+.kesfet_gomlek{
+    width: 681px;
+    height: 681px;
+    margin-top: 5px;
+    float: right;	
+}
+.blog_yazi{
+    width: 1390px;
+    height: 76px;
+    float: left;
+    margin-left: 65px;
+    margin-top: 3px;
+}
+
+/* Blog çizgisi  başlangıç */
+.navigation_son_sol{
+    border-width: 1px;
+    width: 43%;
+    float: left;
+    margin-left: 0px;
+    margin-top: 38px;
+    border-bottom: 2px solid #808080;
+}
+
+.navigation_son_yazi{
+    float: left;
+    margin-left: 19px;
+    margin-top: 26px;
+    font-size: 16px;
+}
+
+.navigation_son_sag{
+border-width: 1px;
+    width: 43%;
+    float: right;
+    margin-right: 0px;
+    margin-top: 38px;
+    border-bottom: 2px solid #808080;
+}
+/*  Blog çizgisi bitiş */
+.icons{
+	width: 1390px;
+    height:151px;
+    float: left;
+    margin-left:62px;
+	font-size:16px;
+	font-family:sans-serif;
+
+}
+.box_top{
+    border-width: 0.5px;
+    border-style: solid;
+    color:#dfdfdf;
+    width: 100%;
+    float: left;
+
+}
+.kargo{
+	width:190px;
+	height: 150px;
+	float:left;
+	margin-left:228px;
+}
+.kargo_bedava{
+    margin-top: 17px;
+    margin-left: 58px;
+    width: 53px;
+    height: 44px;
+}
+.kargo_yazi{
+    float: left;
+    margin-left: 3px;
+    margin-top: 33px;
+    padding-left: 21px;
+}
+.iade{
+	width:190px;
+	height: 150px;
+	float:left;
+	margin-left:11px;
+}
+.kolay_iade{
+    float: left;
+    margin-left: 46px;
+    margin-top: 22px;
+    width: 65px;
+    height: 58px;
+}
+.iade_yazi{
+    float: left;
+    margin-left: 40px;
+    margin-top: 27px;
+}
+.alisveris{
+	width:190px;
+	height: 150px;
+	float:left;
+	margin-left:-20px;
+}
+.guvenli_alisveris{
+    float: left;
+    margin-left: 69px;
+    margin-top: 31px;
+    width: 60px;
+    height: 44px;	
+}
+.guvenli_alisveris_yazi{
+    float: left;
+    margin-left: 40px;
+    margin-top:33px;	
+}
+.taksit
+{
+	width:190px;
+	height: 150px;
+	float:left;
+	margin-left:10px;
+}
+.taksit_resim{
+    float: left;
+    margin-left: 60px;
+    margin-top: 34px;
+    width: 59px;
+    height: 37px;
+}
+.taksit_yazi{
+    float: left;
+    margin-left: 31px;
+    margin-top: 39px;
+		
+}
+.steril{
+	width:190px;
+	height: 150px;
+	float:left;
+	margin-left:10px;
+}
+.steril_paket{
+    float: left;
+    margin-left: 49px;
+    margin-top: 24px;
+    width: 63px;
+    height: 59px;
+}
+.steril_yazi{
+	float: left;
+    margin-left: 39px;
+    margin-top: 27px;
+}
+.box_top_i{
+    border-width: 0.5px;
+    border-style: solid;
+    color:#dfdfdf;
+    width: 100%;
+    float: left;
+    margin-top: -6px;	
+}
+.footer{
+	width:1032px;
+	height:315px;
+	float:left;
+	margin-left:71px;
+	margin-top:21px;
+}
+.kurumsal_kategori{
+	width:171px;
+	height:315px;
+	float:left;
+	margin-left:40px;
+}
+.icerik{
+	color:#535353;
+    font-family:sans-serif;	
+	font-size:14px;
+}
+.footer_basliklar{
+	color: #000;
+    font-size: 14px;
+    font-weight: bolder;
+	font-family:Arial;
+}
+.kurumsal{
+	float:left;
+	margin-left: 11px;
+	margin-top:9px;
+}
+.hakkimizda_yazi{
+	float:left;
+	margin-left:12px;
+	margin-top:27px;
+}
+.magazalar_yazi{
+	float:left;
+	margin-left:12px;
+	padding-top:12px;
+}
+.bilgi_t_yazi{
+	float:left;
+	margin-left:12px;
+	padding-top: 12px;
+}
+.katalog_yazi{
+	float:left;
+	margin-left:12px;
+	padding-top: 12px;
+}
+.kaliplar_yazi{
+	float:left;
+	margin-left:-47px;
+	margin-top: 28px;
+	padding-top: 12px;
+}
+.kurumsal_s_yazi{
+	float:left;
+	margin-left:12px;
+	padding-top: 12px;
+}
+.site_h_yazi{
+	float:left;
+	margin-left:12px;
+	padding-top: 12px;
+}
+.kategoriler_kategori{
+	width:171px;
+	height:315px;
+	float:left;
+	margin-left:50px;
+
+}
+.kategoriler{
+    float: left;
+    margin-left: 5px;
+    margin-top: 9px;
+}
+.siyah_t_yazi{
+	float:left;
+	margin-left:6px;
+	padding-top:27px;	
+}
+.kategori_icerik{
+	float:left;
+	margin-left:6px;
+	padding-top: 12px;	
+}
+.musteri_h_kategori{	
+    width:293px;
+	height:315px;
+	float:left;
+	margin-left:27px;
+}
+.musteri_hizmetleri{
+	float:left;
+	margin-top:9px;
+}
+.g_icerik{
+	float:left;
+	margin-top:10px;
+	padding-top:12px;
+}
+.mh_icerik{
+	float:left;
+	margin-top:0px;
+	margin-left: 0px;
+	padding-top:12px;	
+}
+.ayrcalikli_h_kategori{
+    width:181px;
+	height:315px;
+	float:left;
+	margin-left:58px;	
+}
+.ayricalikli_hizmatler{
+	float:left;
+    margin-top: 8px;
+}
+.magaza_icerik{
+	float:left;
+	margin-top:21px;
+}
+.a_h_icerik{
+	float:left;
+	padding-top:12px;	
+}
+.social_media{
+    width: 347px;
+    height: 419px;
+    float: right;
+    margin-top: 2px,;
+    margin-right: -174px;
+}
+.app{
+    font-size: 32px;
+    float: left;
+    margin-left: 4px;
+    margin-top: 30px;
+    font-family: sans-serif;
+
+}
+.app_store{
+    width: 158px;
+    height: 45px;
+    float: left;
+	margin-top: 12px;
+	border-radius: 10px;
+}
+.google_play{
+    width: 158px;
+    height: 45px;
+    float: left;
+    margin-left: 187px;
+    margin-top: -45px;
+	border-radius: 10px;	
+}
+.bizi_takip_edin{
+    font-size: 28px;
+    float: left;
+    margin-top: 31px;
+    font-weight: 180;
+	font-family: Arial;
+
+}
+.facebook{
+    float: left;
+    margin-top: 21px;
+    width: 38px;
+    height: 38px;
+}
+.twitter{
+    float: left;
+    margin-left: 10px;
+    margin-top: 22px;
+    width: 41px;
+    height: 40px;
+}
+.instagram{
+    float: left;
+    margin-left: 10px;
+    margin-top: 22px;
+    width: 38px;
+    height: 38px;	
+}
+.youtube{
+    float: left;
+    margin-left: 11px;
+    margin-top: 21px;
+    width: 37px;
+    height: 40px;
+}
+.e_bulten{
+    font-size: 30px;
+    float: left;
+    margin-top: 34px;
+    font-weight: 380;
+    font-family: Arial;
+}
+.e_bulten_yazi{
+    font-size: 15px;
+    font-weight: 100;
+    float: left;
+    margin-top: 26px;
+    font-family: Arial;
+}
+.kaydolun_yazi{
+    font-size: 15px;
+    font-weight: 100;
+    float: left;
+    margin-left: 38px;
+    margin-top: 5px;
+    font-family: Arial;
+}
+.arama_blok{
+    border: 1px solid #000;
+    width: 275px;
+    height: 39px;
+    float: left;
+    margin-top: 15px;
+    border-top-color: #fff;
+    border-left-color: #fff;
+}
+.arama_text{
+    width: 226px;
+    height: 20px;
+    float: left;
+    margin-top: -33px;
+    border-color: #fff;
+    padding-left: 17px;
+    border-left-color: #fff;
+    padding-top: 0px;
+    border: 1px solid #fff;
+    font-size: 14px;
+    font-family: Arial;
+}
+.arama_buton{
+    width: 81px;
+    height: 45px;
+    background-color: #000000;
+    float: left;
+    margin-top: -45px;
+    margin-left: 276px;
+    color: #fff;
+}
